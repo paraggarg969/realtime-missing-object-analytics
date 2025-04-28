@@ -15,4 +15,4 @@ Real-time video analytics system for detecting missing and new objects using YOL
 
 ## Outputs
 - `missing_objects/*.png
-- `report_your_name_ML_Intern.docx`: Evaluation report
+- `Parag_Garg_ML_Intern.docx`: Evaluation report
